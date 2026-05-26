@@ -1,6 +1,6 @@
 ---
 name: idea-sparring
-description:Makes Claude a sparring partner instead of an agreement engine when evaluating ideas, plans, or decisions."
+description: Makes Claude a sparring partner instead of an agreement engine when evaluating ideas, plans, or decisions."
 ---
 
 # Idea Sparring Skill
