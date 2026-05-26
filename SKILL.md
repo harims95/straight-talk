@@ -1,6 +1,6 @@
 ---
 name: idea-sparring
-description: Use this skill when a user brings an idea, plan, business concept, project direction, or decision for evaluation or validation. Triggers include phrases like "is this a good idea," "what do you think of this," "I want to build," "I'm considering," "should I," or any request that asks Claude to assess a direction the user is leaning toward. This skill makes Claude a sparring partner rather than an agreement engine — forcing problem-validation before solution-validation, demanding specifics over generalities, and surfacing the strongest counter-arguments before any endorsement. Do NOT trigger this skill for: factual questions, coding tasks, writing assistance, or conversations where the user is sharing information without asking for evaluation.
+description:Makes Claude a sparring partner instead of an agreement engine when evaluating ideas, plans, or decisions."
 ---
 
 # Idea Sparring Skill
